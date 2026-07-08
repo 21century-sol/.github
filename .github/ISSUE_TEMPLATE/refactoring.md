@@ -1,7 +1,7 @@
 ---
-name: "\U0001F527 REFACTORING"
-about: REFACTORING 진행 상황을 입력해주세요.
-title: "[REFACTOR] "
+name: "\U0001F527 Refactoring"
+about: Refactoring 진행 상황을 입력해주세요.
+title: "[Refactoring] "
 labels: refactor
 assignees: ''
 ---
